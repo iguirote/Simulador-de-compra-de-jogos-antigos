@@ -1,0 +1,120 @@
+header {
+	background-image: url ('bloco.png');
+	background-color: #8c571b;
+	padding: 9px;
+	color: white;
+	
+}
+
+footer {
+	background-color:#8c571b;
+	text-align:center;
+	color:white;
+	padding: 24px;
+	background-image: url ('bloco.png');
+		
+}
+
+h3 {
+	margin-bottom: 10px;
+	color:black;
+	font-size: 24px;
+}
+
+img {
+	width: 10%;
+}
+
+h1 {
+	display: inline-block;
+	color:white;
+	text-align:center;
+	text-decoration: none;
+    }
+	
+p {
+	color: white;
+}
+
+.container {
+	background-color: #eee;
+	padding: 50px;
+}
+
+.produto_venda {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.produto {
+	width: 30%;
+	display:inline-block;
+	padding:10px;
+	text-align:center;
+}
+
+.bnt {
+	display: block;
+	width: 100%;
+	background-color:black;
+	color: white;
+	padding: 10px;
+	transition: 0.8s;
+}
+
+.bnt:hover {
+	background-color: #8c571b;
+}
+
+.bntt {
+	display: block;
+	width: 100%;
+	background-color:black;
+	color: white;
+	padding: 10px;
+	transition: 0.8s;
+}
+
+.bntt:hover {
+	background-color: red;
+}
+
+.img {
+	height:200px;
+	margin-bottom: 10px;
+	background-position: center;
+	background-size: cover;
+	border-radius: 30px;
+	border-color: black;
+}
+
+.esquerda {
+	float: left
+}
+
+
+
+#img-blocos {
+	background-image: url('bloco.png');
+}
+#img-cenario {
+	background-image: url('cenario.jpg');
+	background-size: cover;
+}
+#img-1 {
+	background-image: url('mario.jpg');
+}
+#img-2 {
+	background-image: url('sonic.jpg');
+}
+#img-3 {
+	background-image: url('asd.jpg');
+}
+#img-4 {
+	background-image: url('zelda.jpg');
+}
+#img-5 {
+	background-image: url('fire.jpg');
+}
+#img-6 {
+	background-image: url('stardew.jpg');
+}
